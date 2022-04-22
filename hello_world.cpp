@@ -2,8 +2,8 @@
 
 int main()
 {
-// Комментарий1
-//Комментарий2
+// Comment1!
+//Commetnt2!
 std::cout << "Пожалуйста, введите свое имя"<<endl;
 std::string name;
 std::cin >> name;
